@@ -20,3 +20,13 @@ li.on("dblclick", function crossOut() {
     li.toggleClass("strike");
 });
 
+//creates "X" button for each li and the attaches the ".delete" styling (sets display : none) to the li the input when clicked.
+let crossOutButton = $('<crossOutButton></crossOutButton>');
+crossOutButton.append(document.createTextNode('X'));
+li.append(crossOutButton);
+
+ crossOutButton.on("click", deleteListItem);
+function deleteListItem(){
+      li.addClass("delete")
+  }
+
