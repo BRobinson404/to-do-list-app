@@ -9,7 +9,6 @@ function newItem(){
     } else {
       $('#list').append(li);
     }
-};
 
 //crosses list items with double-click
 function crossOut() {
@@ -32,4 +31,4 @@ function deleteListItem(){
 
 //makes the list sortable via drag and drop
  $('#list').sortable();
- 
+}; 
