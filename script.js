@@ -30,3 +30,6 @@ function deleteListItem(){
       li.addClass("delete")
   }
 
+//makes the list sortable via drag and drop
+ $('#list').sortable();
+ 
