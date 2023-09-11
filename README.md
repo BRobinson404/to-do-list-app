@@ -1,7 +1,6 @@
 # To-Do List App
 
-![App Preview](![image](https://github.com/BRobinson404/to-do-list-app/assets/122922678/204324c6-a163-45e7-aca8-46d56d99d8e8)
-)
+(![image](https://github.com/BRobinson404/to-do-list-app/assets/122922678/204324c6-a163-45e7-aca8-46d56d99d8e8)
 
 ## Overview
 
