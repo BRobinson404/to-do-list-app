@@ -23,7 +23,7 @@ The To-Do List App is a simple web application that allows users to create and m
 - Bootstrap
 
 ## Getting Started
-1.View Live github page https://brobinson404.github.io/to-do-list-app/
+1.View Live github page https://brobinson404.github.io/to-do-list-app/<br>
       -or-
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
